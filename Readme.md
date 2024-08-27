@@ -110,4 +110,3 @@ In this session, I focused on a hands-on approach to pentesting by working on th
 
 ---
 
-This session allowed me to practice and reinforce essential pentesting techniques, from reconnaissance to privilege escalation. I'm looking forward to applying these skills in future challenges!
